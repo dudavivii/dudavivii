@@ -27,7 +27,7 @@ Tecnologias ⤵
 
 
  <br> <br>
-<img src="https://github.com/dudavivii/dudavivii/assets/130693542/9cf09d1d-eed9-4141-8667-e633573827a1" width="220">
+<img src="https://github.com/dudavivii/dudavivii/assets/130693542/b258e11f-26d0-4d98-ac8a-211fe672434e" width="220">
 
 ##
 
