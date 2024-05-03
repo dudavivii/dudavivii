@@ -8,7 +8,7 @@
 <br>
 - Atualmente cursando Desenvolvimentos de Sistemas no SENAI, aprimorando meu conhecimento na área para contribuições futuras.
 - 👾 futura dev.
-- amo gatinhos ᓚ₍ ^. .^₎
+-  ᓚ₍ ^. .^₎
 - <br>
 
 Tecnologias ⤵
